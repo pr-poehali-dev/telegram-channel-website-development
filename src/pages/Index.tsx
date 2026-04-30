@@ -267,7 +267,7 @@ export default function Index() {
         <div ref={heroRef} className="relative z-10 text-center max-w-4xl mx-auto px-6 pt-20">
           <div className="inline-flex items-center gap-2 glass-light rounded-full px-4 py-2 mb-8 animate-fade-in-up" style={{ border: "1px solid rgba(0,207,255,0.2)" }}>
             <div className="w-2 h-2 rounded-full animate-pulse" style={{ background: "#00cfff" }} />
-            <span className="text-sm text-gray-300">Уже 12 000+ подписчиков</span>
+            <span className="text-sm text-gray-300">Уже 1000+ подписчиков с нами</span>
           </div>
 
           <h1 className="font-black leading-tight mb-6 animate-fade-in-up delay-200" style={{ fontFamily: "Montserrat, sans-serif", fontSize: "clamp(2.5rem, 7vw, 5.5rem)" }}>
