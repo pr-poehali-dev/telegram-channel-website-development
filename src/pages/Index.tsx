@@ -377,7 +377,7 @@ export default function Index() {
               <div className="w-8 h-px" style={{ background: "linear-gradient(270deg,#00cfff,transparent)" }} />
             </div>
             <h2 className="text-4xl md:text-5xl font-black leading-tight" style={{ fontFamily: "Montserrat, sans-serif" }}>
-              Почему <span className="text-gradient">12 000 человек</span><br />уже с нами?
+              Почему <span className="text-gradient">1000 человек</span><br />уже с нами?
             </h2>
           </div>
 
