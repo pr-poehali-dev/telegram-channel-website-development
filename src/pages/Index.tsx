@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import Icon from "@/components/ui/icon";
 
-const TG_LINK = "https://t.me/your_channel"; // ← замените на ссылку вашего канала
+const TG_LINK = "https://t.me/oborinadesigner";
 
 const NAV_LINKS = [
   { label: "Главная", href: "#hero" },
