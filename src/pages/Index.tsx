@@ -74,7 +74,7 @@ const FAQS = [
 ];
 
 const STATS = [
-  { value: "12K+", label: "подписчиков" },
+  { value: "1K+", label: "подписчиков" },
   { value: "3", label: "поста в день" },
   { value: "2", label: "года в эфире" },
   { value: "98%", label: "довольных читателей" },
