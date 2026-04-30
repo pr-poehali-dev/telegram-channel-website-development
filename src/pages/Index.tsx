@@ -276,7 +276,7 @@ export default function Index() {
           </h1>
 
           <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed animate-fade-in-up delay-300">
-            Telegram-канал с эксклюзивными материалами, аналитикой и практическими советами для тех, кто хочет расти быстрее.
+            Графический дизайнер и инфографик. Визуалы для WB, Ozon, соцсетей и наружки. Работаю с ИИ — Midjourney, Deepseek, Grok.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-up delay-400">
@@ -324,10 +324,10 @@ export default function Index() {
                 Зачем читать <span className="text-gradient">именно нас?</span>
               </h2>
               <p className="text-gray-400 text-lg leading-relaxed mb-6">
-                Мы создаём контент для людей, которые ценят своё время. Никакой воды — только конкретика, факты и инсайты от практика с многолетним опытом.
+                Привет! Я графический дизайнер и инфографик. Создаю визуалы для маркетплейсов (WB, Ozon), наружки, полиграфии, соцсетей.
               </p>
               <p className="text-gray-400 leading-relaxed mb-8">
-                Каждый пост — это маленький прорыв. Мы анализируем сотни источников, чтобы доставить вам только самое важное в удобном формате.
+                Работаю с ИИ (Midjourney, Nano banana, Deepseek, Grok) — генерирую фоны, иконки, идеи. Делюсь процессом, кейсами и инструментами прямо в канале.
               </p>
               <a href={TG_LINK} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 tg-button text-white font-semibold px-7 py-3.5 rounded-xl">
                 <Icon name="Send" size={18} />
