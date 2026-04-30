@@ -339,9 +339,9 @@ export default function Index() {
               <div className="absolute -inset-4 rounded-3xl animate-spin-slow opacity-20" style={{ background: "conic-gradient(from 0deg, #00cfff, #a855f7, #ec4899, #00cfff)", filter: "blur(2px)" }} />
               <div className="relative glass rounded-3xl p-6 space-y-4">
                 {[
-                  { emoji: "🔥", title: "Топ-10 инструментов 2025", time: "2 часа назад", views: "4.2K" },
-                  { emoji: "📊", title: "Разбор кейса: рост x3 за месяц", time: "вчера", views: "8.7K" },
-                  { emoji: "💡", title: "Почему большинство делает это неправильно", time: "2 дня назад", views: "12.1K" },
+                  { emoji: "🎨", title: "Как сделать карточку WB, которую замечают", time: "2 часа назад", views: "3.1K" },
+                  { emoji: "🤖", title: "Midjourney vs Grok: что лучше для фонов", time: "вчера", views: "5.4K" },
+                  { emoji: "📐", title: "Инфографика за 20 минут: мой процесс", time: "2 дня назад", views: "7.8K" },
                 ].map((post, i) => (
                   <div key={i} className="glass-light rounded-2xl p-4 flex items-center gap-4 feature-card cursor-pointer">
                     <div className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl flex-shrink-0" style={{ background: "rgba(255,255,255,0.05)" }}>
