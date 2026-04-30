@@ -472,7 +472,7 @@ export default function Index() {
       {/* ФУТЕР */}
       <footer className="py-8 border-t text-center" style={{ borderColor: "rgba(255,255,255,0.06)" }}>
         <p className="text-gray-600 text-sm">
-          © 2025 Дизайнер, Креатор, Инфографика · Сделано с <span className="text-neon-violet">♥</span> в Telegram
+          © 2026 Дизайнер, Креатор, Инфографика · Сделано с <span className="text-neon-violet">♥</span> в Telegram
         </p>
       </footer>
     </div>
