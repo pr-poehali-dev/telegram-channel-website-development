@@ -445,8 +445,8 @@ export default function Index() {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
               {[
-                { icon: "Send", label: "Telegram канал", value: "@your_channel", href: TG_LINK, color: "#00cfff" },
-                { icon: "MessageCircle", label: "Чат поддержки", value: "@your_support", href: TG_LINK, color: "#a855f7" },
+                { icon: "Send", label: "Telegram канал", value: "@oborinadesigner", href: TG_LINK, color: "#00cfff" },
+                { icon: "MessageCircle", label: "Чат поддержки", value: "@design_oborina", href: "https://t.me/design_oborina", color: "#a855f7" },
                 { icon: "Mail", label: "Email", value: "hello@example.com", href: "mailto:hello@example.com", color: "#ec4899" },
               ].map((c, i) => (
                 <a key={i} href={c.href} target="_blank" rel="noopener noreferrer" className="glass rounded-3xl p-6 flex flex-col items-center gap-3 feature-card" style={{ border: "1px solid rgba(255,255,255,0.06)" }}>
